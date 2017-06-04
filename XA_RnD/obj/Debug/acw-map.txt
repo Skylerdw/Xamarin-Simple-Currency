@@ -1,0 +1,8 @@
+XA_RnD.CurrencyExchangeViewAdapter, XA_RnD;md5d0574484410e4eba9ec124eb0fb988bb.CurrencyExchangeViewAdapter
+XA_RnD.CurrencyExchangeViewAdapter, XA_RnD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d0574484410e4eba9ec124eb0fb988bb.CurrencyExchangeViewAdapter
+XA_RnD.CurrencyExchangeViewAdapter;md5d0574484410e4eba9ec124eb0fb988bb.CurrencyExchangeViewAdapter
+xa_rnd.CurrencyExchangeViewAdapter;md5d0574484410e4eba9ec124eb0fb988bb.CurrencyExchangeViewAdapter
+XA_RnD.MainActivity, XA_RnD;md5d0574484410e4eba9ec124eb0fb988bb.MainActivity
+XA_RnD.MainActivity, XA_RnD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d0574484410e4eba9ec124eb0fb988bb.MainActivity
+XA_RnD.MainActivity;md5d0574484410e4eba9ec124eb0fb988bb.MainActivity
+xa_rnd.MainActivity;md5d0574484410e4eba9ec124eb0fb988bb.MainActivity
